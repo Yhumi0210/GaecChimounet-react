@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yhumi0210/GaecChimounet-react.git/static/css/main.eb0e410e.css",
+    "main.js": "/Yhumi0210/GaecChimounet-react.git/static/js/main.f5c3a534.js",
+    "static/js/453.ccbc2759.chunk.js": "/Yhumi0210/GaecChimounet-react.git/static/js/453.ccbc2759.chunk.js",
+    "static/media/231010bocaux1.webp": "/Yhumi0210/GaecChimounet-react.git/static/media/231010bocaux1.73d0ae69ec6afaa748f0.webp",
+    "static/media/230914premierbocaux.webp": "/Yhumi0210/GaecChimounet-react.git/static/media/230914premierbocaux.6fd4744330d8b5a93598.webp",
+    "static/media/didot_regular.ttf": "/Yhumi0210/GaecChimounet-react.git/static/media/didot_regular.89b353f05851ab3b0369.ttf",
+    "static/media/argesta.ttf": "/Yhumi0210/GaecChimounet-react.git/static/media/argesta.9e77f10064ad50e4973f.ttf",
+    "static/media/DSC045421.webp": "/Yhumi0210/GaecChimounet-react.git/static/media/DSC045421.f58d9f85a25f52eaca5c.webp",
+    "static/media/230819coulistomate.webp": "/Yhumi0210/GaecChimounet-react.git/static/media/230819coulistomate.6534edde123cd09cb947.webp",
+    "static/media/logo-balf.png": "/Yhumi0210/GaecChimounet-react.git/static/media/logo-balf.8fc053db13e70ea8f01b.png",
+    "static/media/logomainseul60px.webp": "/Yhumi0210/GaecChimounet-react.git/static/media/logomainseul60px.c6a237f1c285a55ba2a1.webp",
+    "index.html": "/Yhumi0210/GaecChimounet-react.git/index.html",
+    "main.eb0e410e.css.map": "/Yhumi0210/GaecChimounet-react.git/static/css/main.eb0e410e.css.map",
+    "main.f5c3a534.js.map": "/Yhumi0210/GaecChimounet-react.git/static/js/main.f5c3a534.js.map",
+    "453.ccbc2759.chunk.js.map": "/Yhumi0210/GaecChimounet-react.git/static/js/453.ccbc2759.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0e410e.css",
+    "static/js/main.f5c3a534.js"
+  ]
+}
